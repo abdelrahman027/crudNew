@@ -1,0 +1,17 @@
+D:\Code\Vs Projects\Services\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+D:\Code\Vs Projects\Services\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Vs Projects\Services\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+D:\Code\Vs Projects\Services\obj\Debug\net8.0\Services.AssemblyInfo.cs
+D:\Code\Vs Projects\Services\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+D:\Code\Vs Projects\Services\bin\Debug\net8.0\Services.deps.json
+D:\Code\Vs Projects\Services\bin\Debug\net8.0\Services.dll
+D:\Code\Vs Projects\Services\bin\Debug\net8.0\Services.pdb
+D:\Code\Vs Projects\Services\bin\Debug\net8.0\Entities.dll
+D:\Code\Vs Projects\Services\bin\Debug\net8.0\ServiceContracts.dll
+D:\Code\Vs Projects\Services\bin\Debug\net8.0\Entities.pdb
+D:\Code\Vs Projects\Services\bin\Debug\net8.0\ServiceContracts.pdb
+D:\Code\Vs Projects\Services\obj\Debug\net8.0\Services.csproj.Up2Date
+D:\Code\Vs Projects\Services\obj\Debug\net8.0\Services.dll
+D:\Code\Vs Projects\Services\obj\Debug\net8.0\refint\Services.dll
+D:\Code\Vs Projects\Services\obj\Debug\net8.0\Services.pdb
+D:\Code\Vs Projects\Services\obj\Debug\net8.0\ref\Services.dll
